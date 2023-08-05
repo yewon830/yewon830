@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=YeWon's%Git&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=YeWon's%20Git&fontSize=50&animation=twinkling&fontColor=d6ace6)
 
 
 <!--
