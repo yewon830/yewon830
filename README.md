@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=120&section=header&text=YeWon's%20Git&fontSize=50&animation=twinkling&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=YeWon's%20Git&fontSize=50&animation=twinkling&fontColor=000000)
 
 
 <!--
@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 
 ###### Information
-Start Programming 2023 01.
+🌱 Start Programming 2023 01
+💻 삼성 청년 소프트웨어 아카데미(SSAFY) 9th
+🎥 영화 추천 및 검색 사이트 "YEMIN STUDIO" Frontend _ Vue.js
 
 
 ###### Skill
