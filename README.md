@@ -26,7 +26,9 @@ Here are some ideas to get you started:
 
 ###### Information
 🌱 Start Programming 2023 01
+
 💻 삼성 청년 소프트웨어 아카데미(SSAFY) 9th
+
 🎥 영화 추천 및 검색 사이트 "YEMIN STUDIO" Frontend _ Vue.js
 
 
