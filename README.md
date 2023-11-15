@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 🎆실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB
 
+🌆추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti" Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2
+
 
 
 
