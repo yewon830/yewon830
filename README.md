@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 💻 삼성 청년 소프트웨어 아카데미(SSAFY) 9th
 
-🎥 영화 추천 및 검색 사이트 "YEMIN STUDIO" Frontend _ Vue.js
+🎥 영화 추천 및 검색 사이트 "YEMIN TV" Frontend _ Vue.js
 
 🎆실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB
 
