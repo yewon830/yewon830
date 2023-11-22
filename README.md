@@ -27,13 +27,15 @@ Here are some ideas to get you started:
 ### Information
 🌱 Start Programming 2023 01
 
-💻 삼성 청년 소프트웨어 아카데미(SSAFY) 9th
+⌨ 삼성 청년 소프트웨어 아카데미(SSAFY) 9th
 
 🎥 영화 추천 및 검색 사이트 "YEMIN TV" Frontend _ Vue.js
 
-🎆실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB
+🎆 실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB
 
-🌆추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti" Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2
+🌆 추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti" Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2
+
+💻 어학 시험 출결 관리감독 서비스 "LAAMS" & 어학 시험 사이트 "SSAPIc" Frontend, Infra _ React, SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2
 
 
 
