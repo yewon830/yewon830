@@ -30,18 +30,19 @@ Here are some ideas to get you started:
 ⌨ 삼성 청년 소프트웨어 아카데미(SSAFY) 9th 수료 (2023.01~ 2023.12)
 
 
+|프로젝트 목록|
 |---|
-|🎥 영화 추천 및 검색 사이트 "Yemin Studio" Frontend _ Vue.js, vuex, BootStrap, vue-router|
-|🎆 실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB|
-|🌆 추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti" Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
-|💻 어학 시험 출결 관리감독 서비스 "LAAMS" & 어학 시험 사이트 "SSAPIc" Frontend, Infra _ React, SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
+|<a href="https://github.com/yewon830/YeMin_Studio">🎥 영화 추천 및 검색 사이트 "Yemin Studio" Frontend _ Vue.js, vuex, BootStrap, vue-router</a>|
+|<a href="https://github.com/yewon830/Hifes">🎆 실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB|
+|<a href="https://github.com/NineToSixVisti/visti">🌆 추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti" Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
+|<a href="https://github.com/yewon830/LAAMS">💻 어학 시험 출결 관리감독 서비스 "LAAMS" & 어학 시험 사이트 "SSAPIc" Frontend, Infra _ React, SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
 
 
 
 
 
 ### Skill
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000000"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=000000"/>  <img src="https://img.shields.io/badge/Jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=000000"/>  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000"/>  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=git&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/>  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=000000"/>  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF"/>  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=000000"/>  <img src="https://img.shields.io/badge/Jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=000000"/>  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000"/>  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=git&logoColor=000000"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 
 
 
