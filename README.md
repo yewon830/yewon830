@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 
 |프로젝트 목록|
 |---|
-|<a href="https://github.com/yewon830/YeMin_Studio"><strong>🎥 영화 추천 및 검색 사이트 "Yemin Studio" Frontend _ Vue.js, vuex, BootStrap, vue-router</strong></a>|
-|<a href="https://github.com/yewon830/Hifes">🎆 실시간 축제 정보 제공 어플 "Hifes" Backend_ SpringBoot, MariaDB|
-|<a href="https://github.com/NineToSixVisti/visti">🌆 추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti" Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
-|<a href="https://github.com/yewon830/LAAMS">💻 어학 시험 출결 관리감독 서비스 "LAAMS" & 어학 시험 사이트 "SSAPIc" Frontend, Infra _ React, SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
+|<a href="https://github.com/yewon830/YeMin_Studio"><strong>🎥 영화 추천 및 검색 사이트 "Yemin Studio"</strong> Frontend _ Vue.js, vuex, BootStrap, vue-router</a>|
+|<a href="https://github.com/yewon830/Hifes"><strong>🎆 실시간 축제 정보 제공 어플 "Hifes"</strong> Backend_ SpringBoot, MariaDB|
+|<a href="https://github.com/NineToSixVisti/visti"><strong>🌆 추억 보관 및 공유 폐쇄형 SNS 서비스 "Visti"</strong> Backend, Infra _ SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
+|<a href="https://github.com/yewon830/LAAMS"><strong>💻 어학 시험 출결 관리감독 서비스 "LAAMS" & 어학 시험 사이트 "SSAPIc"</strong> Frontend, Infra _ React, SpringBoot, Mysql, Docker, Jenkins, Nginx, EC2|
 
 
 
