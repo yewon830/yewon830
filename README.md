@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Contact
+### Blog
 <a href="https://yain01234.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/tistory-000000?style=for-the-badge&logo=tistory&logoColor=FFFFFF"/></a>
 
 
@@ -43,6 +43,10 @@ Here are some ideas to get you started:
 
 ### Skill
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=000000"/> <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/> <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=000000"/>  <img src="https://img.shields.io/badge/Jirasoftware-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=000000"/>  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=000000"/>  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=git&logoColor=000000"/>  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+
+### status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewon830&show_icons=true&theme=radical)
 
 
 
